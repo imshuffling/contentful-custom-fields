@@ -1,4 +1,4 @@
-# Contentful custom fields
+# Contentful Custom Fields
 
 ![Alt text](screenshot.webp?raw=true "Custom fields")
 

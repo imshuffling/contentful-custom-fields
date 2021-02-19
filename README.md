@@ -1,3 +1,5 @@
+![Alt text](screenshot.webp?raw=true "Custom fields")
+
 This project was bootstrapped with [Create Contentful App](https://github.com/contentful/create-contentful-app).
 
 ## Available Scripts
